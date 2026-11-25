@@ -66,7 +66,7 @@
 
 7bridges provides a SaaS platform that uses AI to give end‑to‑end visibility and resilience for supply chains. The platform combines data integration, optimisation, simulation and automation to help enterprises monitor carrier performance, predict disruptions, and make data‑driven logistics decisions. Recognised with the 2023 SaaS Awards, the company serves global shippers and logistics providers, offering a digital twin of the supply network and a knowledge base for onboarding and API integration.
 
-**Areas:** Supply Chain · SaaS · Logistics · AI · Platform
+**Areas:** Supply Chain · Software-as-a-Service · Logistics · Artificial Intelligence · Platform
 
 ## 7bridges on APIs.io
 
@@ -84,20 +84,20 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [7Bridges Authentication](https://apis.io/security/7bridges/7bridges-authentication/)
-- [7Bridges Domain Security](https://apis.io/security/7bridges/7bridges-domain-security/)
+- [7bridges Authentication](https://apis.io/security/7bridges/7bridges-authentication/)
+- [7bridges Domain Security](https://apis.io/security/7bridges/7bridges-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [7Bridges Scopes](https://apis.io/scopes/7bridges/7bridges-scopes/)
+- [7bridges Scopes](https://apis.io/scopes/7bridges/7bridges-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [7Bridges Plans Pricing](https://apis.io/plans/7bridges/7bridges-plans-pricing/)
+- [7bridges Plans Pricing](https://apis.io/plans/7bridges/7bridges-plans-pricing/)
 
 ## Where to find this API
 
@@ -114,7 +114,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 20.2** — emerging · rubric 0.25.0 · scored 2026-10-29
+**Kin Score 19.8** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
@@ -123,16 +123,16 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 45.2 |
-| Access clarity | 21.1 |
+| Access clarity | 23.4 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 0.0** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -150,8 +150,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 21.8** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 16.4** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/7bridges/](https://apis.io/providers/7bridges/).
 
